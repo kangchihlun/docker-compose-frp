@@ -12,6 +12,6 @@ frp service in docker-compose , one click to rock
 - 輸入 docker-compose -f compose-frpc.yml up
 
 目前只有讓目標電腦監聽 22 port，如有需要再自行擴充。<br>
-對外目前設定走 6000 port，意思就是說外網要訪問這台電腦的話就要打 <br>
->ssh user@外網ip:6000
+對外目前設定走 6000 port，意思就是說外網要訪問這台電腦的話就要打 <br> 
+>ssh user@外網ip:6000 <br>
 <a href="https://www.itread01.com/fefcf.html">如果要看frp詳細教學請看這裡</a>
